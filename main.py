@@ -4,5 +4,5 @@ var = input(str("Is this a JoJo refrence? type an input and see : "))
 
 if var == "DIO": 
   print("That's a JoJo refrence")
-else
+else:
   print("That's a JoJo refrence")
